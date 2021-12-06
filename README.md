@@ -1,1 +1,2 @@
-# projectsAPI
+# Projects Api
+Projects API
