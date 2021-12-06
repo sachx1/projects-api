@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "title": "Portfolio Website",
+            "skills": ["ReactJS, Google Firebase, Bootstrap, Node.js, HTML, Sass"],
+            "description": [
+                "Build and designed by myself",
+                "Used <b>Bootstrap</b> as well as <b> Sass </b> for responsive design", 
+                "Applied concepts learned in online courses such as React Hooks, Fetching API's etc. to create this website"
+            ],
+
+            "img": "https://wallpaperaccess.com/full/3949076.jpg", 
+            "github": "https://github.com/sachx1/portfolio"
+        }, 
+        {
+            "id": 1,
+            "title": "Projects RESTful API",
+            "skills": "JSON, REST API",
+            "description": [
+               "Developed my own <b>RESTful API</b> to hold my project data", 
+               "Fully interactable, you can make GET, POST, PUT, DELETE etc requests to it"
+            ],
+            "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--RK-AgEnh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1s3bedypkt7zm8maikzg.png",
+            "github": "https://github.com/sachx1/projects-api"
+        }
+    ]
+}
